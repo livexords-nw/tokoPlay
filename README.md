@@ -67,6 +67,14 @@ With Tokoplay Bot, you can save time, reduce manual effort, and maximize your in
 
 To start using Tokoplay Bot, ensure you have valid query data from your Tokoplay account. This data is typically available from your Tokocrypto minigame dashboard.
 
+Register your account via the link below:
+
+<div align="center">
+  <a href="https://t.me/Tokominigame_bot/TokoPlay?startapp=inviterId_5438209644" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Register+Now&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Register Now" />
+  </a>
+</div>
+
 ---
 
 ## 📖 **Installation Steps**
@@ -134,7 +142,7 @@ This project is developed by **Livexords**. If you have suggestions, questions, 
 
 <div align="center">
   <a href="https://t.me/livexordsscript" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Livexords&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Livexords&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Livexords" />
   </a>
 </div>
 
