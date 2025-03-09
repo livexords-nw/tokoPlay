@@ -1,0 +1,7 @@
+{
+    "task": true,
+    "game": true,
+    "proxy": false,
+    "delay_account_switch": 10,
+    "delay_loop": 500
+}
